@@ -1,0 +1,2 @@
+recursive-include jupyter-plotly-dash-widget/static *.*
+include jupyter-plotly-dash-widget.json
